@@ -15,8 +15,8 @@
  ```ruby
  def my_great_method
     puts "here it is"
-    end
-    ```
+end
+```
     
 ```javascript
 alert('hi there');
